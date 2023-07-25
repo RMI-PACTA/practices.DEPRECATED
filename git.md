@@ -56,7 +56,7 @@ Choose a workflow based on your team’s needs and preferences. However you choo
 
 GitHub workflow:
 
-This workflow is 2DII’s default. If a project uses a different workflow, document prominently (e.g. in README) what that workflow is ([example](https://github.com/github/gitignore#contributing-workflow)).
+This workflow is RMI’s default. If a project uses a different workflow, document prominently (e.g. in README) what that workflow is ([example](https://github.com/github/gitignore#contributing-workflow)).
 
 -   Uses a central repository.
 -   Uses a single long-lived branch: “main”; it never contains broken code.
