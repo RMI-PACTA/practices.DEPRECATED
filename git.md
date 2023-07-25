@@ -89,8 +89,6 @@ See also:
 
 ## How
 
--   [Git practices by example](TODO)
--   [Coding helpdesk](https://github.com/2DegreesInvesting/coding-helpdesk#coding-helpdesk).
 -   [GitHub’s Git guides](https://github.com/git-guides/).
 -   [Coderefinery’s Git intro](https://coderefinery.github.io/git-intro/).
 -   [Git best practices](https://bit.ly/book-git-in-practice).
